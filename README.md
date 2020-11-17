@@ -43,5 +43,46 @@ https://es.wikipedia.org/wiki/Nervio_espinal
 
 ## Alveolos
 
+``` java
+public static void main(String[] arg){
+    int valor=5;
+    System.out.println('hola');
+}
+```
+
+``` html
+<html>
+<body>
+<h1>Prueba</h1>
+</body>
+</html>
+```
+
+# Sistema circulatorio
+
+## Corazón
+
+| Nombre | PPM | Saturacion |
+|---|---:|:---:|
+| Ana | 79 | 10% |
+| Juan | 82 | 20% |
+| Rosa | 60 | 15% |
+
+> Hay que escuchar a la cabeza, pero dejar hablar al corazón.
+>> cita anidada
+
+@susana
+
+
+/*__*/prueba__
+
+## Venas
+
+- [x] No fumar
+- [] No tomar alimentos ricos en grasas saturadas
+- [] Hacer ejercicio
+- [x] Comer vegetales
+- [] Hacerte vegano
+
 [bronquios1]:
 https://upload.wikimedia.org/wikipedia/commons/8/85/Gray961.png
